@@ -1,0 +1,11 @@
+{
+	"name": "mpg123",
+	"description": "D binding for libmpg123",
+	"copyright": "Copyright © 2014, fesor",
+	"authors": ["fesor"],
+	"libs-posix": ["mpg123"],
+	"targetType": "library",
+	"targetPath": "bin",
+	"dependencies": {
+	}
+}
